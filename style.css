@@ -1,0 +1,170 @@
+#intro-header{
+
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    width:75%;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    
+
+    
+
+}
+
+#sazia-head{
+    /*background-color:whitesmoke;*/
+    width: 95%;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+.Education{
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    width:75%;
+    height: 40px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+
+
+
+}
+
+
+ul{
+    display: inline-block;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+li{
+    display: inline-block;
+    border: 1px solid chocolate;
+    margin-top: 10px;
+}
+
+
+
+.Experience{
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    width:75%;
+    height: 120px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+
+
+
+}
+
+.Awards{
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    width:75%;
+    height: 180px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+
+
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+a:visited{
+    color:violet
+}
+
+.Skills{
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    width:75%;
+    height: 180px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+}
+
+.Project{
+
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    width:75%;
+    height: 480px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+    margin-bottom: 30px;
+}
+
+footer{
+    color:black;
+    background-color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+
+    width:75%;
+    text-align: center;
+    margin: auto;
+    background-color: burlywood;
+    background-image: url("body-background.webp");
+    
+    
+}
+
